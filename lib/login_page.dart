@@ -45,7 +45,6 @@ class _login_pageState extends State<login_page> {
                 Container(
                   child: TextFormField(
                     keyboardType: TextInputType.emailAddress,
-                    initialValue: 'mmmaden.19@gmail.com',
                     decoration: InputDecoration(
                       border: OutlineInputBorder(),
                       labelText: 'E-Mail',
@@ -70,7 +69,6 @@ class _login_pageState extends State<login_page> {
                 ),
                 Container(
                   child: TextFormField(
-                    initialValue: '123456',
                     decoration: InputDecoration(
                       border: OutlineInputBorder(),
                       labelText: 'Password',
