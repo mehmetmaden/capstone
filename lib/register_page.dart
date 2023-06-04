@@ -43,7 +43,6 @@ class _register_pageState extends State<register_page> {
                 ),
                 Container(
                   child: TextFormField(
-                    initialValue: 'mmmaden.19@gmail.com',
                     keyboardType: TextInputType.emailAddress,
                     decoration: InputDecoration(
                       border: OutlineInputBorder(),
@@ -69,7 +68,6 @@ class _register_pageState extends State<register_page> {
                 ),
                 Container(
                   child: TextFormField(
-                    initialValue: '123456',
                     decoration: InputDecoration(
                       border: OutlineInputBorder(),
                       labelText: 'Password',
