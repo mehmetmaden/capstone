@@ -53,10 +53,10 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA9scRiLocQyjOJMN2VE9NjBPx66-Gw9XY',
-    appId: '1:1015956977728:android:db3a6e10527fd3353607a5',
+    apiKey: 'AIzaSyA9scRiLocQyjOJMN2VE9NjBPx66-****',
+    appId: '1:1015956977728:android:db3a6e10527fd33536****',
     messagingSenderId: '1015956977728',
-    projectId: 'capstone-test-a589c',
-    storageBucket: 'capstone-test-a589c.appspot.com',
+    projectId: 'capstone-test-a****',
+    storageBucket: 'capstone-test-*****.appspot.com',
   );
 }
